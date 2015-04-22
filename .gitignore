@@ -1,2 +1,4 @@
 .idea
 canvasgrid.iml
+node_modules
+dist
